@@ -1,0 +1,31 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "Products for Alura Geek fake store api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guibetancur/fake-API.git"
+  },
+  "keywords": [
+    "alura",
+    "fake",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "Guibetancur, guibetancur@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guibetancur/fake-API/issues"
+  },
+  "homepage": "https://github.com/guibetancur/fake-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
