@@ -18,7 +18,7 @@ https://alurageek-api.vercel.app/
 
 ```json
 {
- "producto": [
+ "video": [
         {
             "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
             "nombre": "Taza Trooper",
