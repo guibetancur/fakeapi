@@ -4,457 +4,457 @@
       "id": "1",
       "nombre": "MiduDev",
       "descripcion": "Entusiasta desarrollador español",
-      "color": "#6BD1FF"
+      "color": "#FFBA05"
     },
     {
       "id": "2",
       "nombre": "DeivChoi",
       "descripcion": "Desarrollador japonés con mucho que enseñar 🦉",
-      "color": "#FFBA05"
+      "color": "#00C86F"
     },
     {
       "id": "3",
       "nombre": "JonMircha",
       "descripcion": "Desarrollador mexicano con buena pedagogía",
-      "color": "#00C86F"
+      "color": "#6BD1FF"
     },
     {
       "id": "4",
       "nombre": "La Cocina del Código",
       "descripcion": "Excelente manera de cocinar el código.",
-      "color": "#7b00e0"
+      "color": "#ff0000"
     },
     {
       "id": "5",
       "nombre": "Radu Mariescu-Istodor",
       "descripcion": "Especialista en programación aplicada a las matemáticas 🐣",
-      "color": "#00ffd5"
+      "color": "#7b00e0"
     },
     {
       "id": "6",
       "nombre": "Carlos Azaustre",
       "descripcion": "Diferentes cursos de programación completos",
-      "color": "#ff0000"
+      "color": "#00ffd5"
     }
   ],
   "videos": [
     {
       "id": "1",
-      "title": "Tutorial Modo oscuro",
-      "metadescription": "¿Sabes qué es el 'prefers-color-scheme'? Aprende cómo implementar el Modo oscuro en tus sitios web con JavaScript. Este es un curso de nivel medio.",
+      "title": "Fundamentos del Desarrollo Web",
+      "metadescription": "Bootcamp FullStack gratuito con una introducción. Después de eso, tendremos una descripción general de los conceptos básicos del desarrollo web y también hablaremos sobre los avances en el desarrollo de aplicaciones web durante las últimas décadas.",
       "categoria": {
         "nombre": "MiduDev",
         "color": "#6BD1FF"
       },
-      "img": "tSVyfcpJ1yc",
-      "embedId": "tSVyfcpJ1yc"
+      "img": "wTpuKOhGfJE",
+      "embedId": "wTpuKOhGfJE"
     },
     {
       "id": "2",
-      "title": "Taller de Diseño con FIGMA para DEVELOPERS | HackerLIVE#40",
-      "metadescription": "¿Cómo aprender diseño como programadores? \n\nCarmen Ansio, como experta, nos ayuda a conseguirlo con este taller desde cero para aprender Figma, una de las herramientas más utilizadas en el sector.",
+      "title": "Aprendiendo Javascript y React desde cero - Bootcamp FullStack Gratuito",
+      "metadescription": "Bootcamp FullStack gratuito para ver qué es Javascript, algunas de sus características e iniciarnos en React.js.",
       "categoria": {
         "nombre": "MiduDev",
         "color": "#6BD1FF"
       },
-      "img": "jy0IgvV42es",
-      "embedId": "jy0IgvV42es"
+      "img": "YLvT1ELnaX4",
+      "embedId": "YLvT1ELnaX4"
     },
     {
       "id": "3",
-      "title": "PHP está muerto en 2023? | #laFunción 9x2",
-      "metadescription": "Parece que cada año se intenta matar a PHP \n\n ¿pero es eso cierto? En el directo de hoy exploramos a ver si tiene sentido o no aprender php como lenguaje de programación y veremos sus principales frameworks como Laravel y Symfony.",
+      "title": "💯 Aprendiendo Node.JS y Express para crear una API 📶 - Bootcamp FullStack Gratuito",
+      "metadescription": "Node.js te permite ejecutar JavaScript en el lado del servidor. En este vídeo vas a aprender a crear tu primera API y además descubrirás Express.",
       "categoria": {
         "nombre": "MiduDev",
         "color": "#6BD1FF"
       },
-      "img": "f8W220hkmgA",
-      "embedId": "f8W220hkmgA"
+      "img": "o85OkeVtm7k",
+      "embedId": "o85OkeVtm7k"
     },
     {
       "id": "4",
-      "title": "Fake API con json-server",
-      "metadescription": "Aprende a desplegar tu propia fake api con vercel y json server para tus proyectos de MiduDev. \n\nAdemás, te dejo el repositorio para que lo puedas clonar",
+      "title": "React ⚛️: Estado del componente, Renderizado Condicional y Eventos - Bootcamp FullStack Gratuito",
+      "metadescription": "¡Seguimos aprendiendo React! Vemos cómo usar el hook useState para añadir estado a nuestro componente. Cómo hacer un conditional rendering, controlar eventos y algunas buenas prácticas cuando trabajamos con la biblioteca de Frontend.",
       "categoria": {
         "nombre": "MiduDev",
         "color": "#6BD1FF"
       },
-      "img": "bZ6oqJEA5K0",
-      "embedId": "bZ6oqJEA5K0"
+      "img": "5KvlQDYDZwY",
+      "embedId": "5KvlQDYDZwY"
     },
     {
       "id": "5",
-      "title": "¿Cómo hacer deploy de Github a Hostinger?",
-      "metadescription": "Aprende a desplegar tu repositorio privado desde Github a Hostinger. \n\n Podrás hacer cambios y actualizarlos en tiempo real con tan solo un PUSH ❤️",
+      "title": "CSS Grid, Infinite Scroll y Tests en nuestra app de React",
+      "metadescription": "Hoy vamos a seguir con nuestra aplicación de Gifs en React para pasar a usar CSS Grid en nuestras búsquedas. Además, vamos a hacer que nuestra app tenga infinite scroll usando React y le añadiremos algunos tests para ver cómo funcionan.",
       "categoria": {
         "nombre": "MiduDev",
         "color": "#6BD1FF"
       },
-      "img": "RwBcNPybF4Q",
-      "embedId": "RwBcNPybF4Q"
+      "img": "oCHdFiCgOSE",
+      "embedId": "oCHdFiCgOSE"
     },
     {
       "id": "6",
-      "title": "Curso de DeivChoi 1",
-      "metadescription": "primeros pasos con Local DeivChoi.\n\n Aprenderás a instalar DeivChoi de forma local y hacer tus primeras configuraciones.",
+      "title": "Cómo Hacer un Encabezado Responsive con HTML y CSS",
+      "metadescription": "Vamos a armar un encabezado o header para tus páginas web completamente responsive. Es decir, que se va a ver bien en cualquier dispositivo, sea teléfono, tablet o computadora. Las herramientas que vamos a usar en este video son HTML5, CSS3 y Visual Studio Code.",
       "categoria": {
         "nombre": "DeivChoi",
         "color": "#FFBA05"
       },
-      "img": "XqL6bDsQxbM",
-      "embedId": "XqL6bDsQxbM"
+      "img": "OuoLQiXPitk",
+      "embedId": "OuoLQiXPitk"
     },
     {
       "id": "7",
-      "title": "Curso de DeivChoi 2",
-      "metadescription": "Haremos las primeras configuraciones a nuestro DeivChoi para que pueda indexarse y posicionarse de manera optimizada. \n\nEstructuraremos el menú y las las permalinks",
+      "title": "Cómo Armé mi Primer Juego en Java Desde Cero | Crear un Snake de cero 2021 | Programar Videojuegos",
+      "metadescription": "Querés armar tu propio videojuego pero no sabes por donde arrancar? Te cuento como fue mi experiencia cuando armé mi primer proyecto simple en java desde cero. Un Snake con tabla de puntuaciones que es muy simple, pero me costó más de lo esperado. Si te interesa programar tus propios videojuegos, este video puede ser para vos!",
       "categoria": {
         "nombre": "DeivChoi",
         "color": "#FFBA05"
       },
-      "img": "9YbBVmiBPbs",
-      "embedId": "1gUCu2e_JiM"
+      "img": "XiO2YDY9faQ",
+      "embedId": "XiO2YDY9faQ"
     },
     {
       "id": "8",
-      "title": "Curso de DeivChoi 3",
-      "metadescription": "Editor de texto Gutenberg",
+      "title": "Estudiando un Nuevo Lenguaje o Framework? HACE ESTO!!!",
+      "metadescription": "Estudiar un nuevo lenguaje de programación o librería (framework) puede sentirse abrumador al principio. Pero no tiene por que serlo. Te voy a contar una estrategia muy buena para aprender nuevas tecnologías sin desperdiciar nada de tiempo y maximizando el aprendizaje!",
       "categoria": {
         "nombre": "DeivChoi",
         "color": "#FFBA05"
       },
-      "img": "oqqTEeD8F0c",
-      "embedId": "oqqTEeD8F0c"
+      "img": "rzQB6xO6D4c",
+      "embedId": "rzQB6xO6D4c"
     },
     {
       "id": "9",
-      "title": "Curso de DeivChoi 4",
-      "metadescription": "Bienvenidos al curso de DeivChoi con ELEMNTOR. En este curso aprenderás a crear páginas web, totalmente atractivas y responsivas.\n\nLo mejor de todo es que  es totalmente gratis, ya que trabajaremos ofline usando el software de LOCAL. Así que lo único que necesitas es una PC y conexión a internet (Para ver estos videos 😜)",
+      "title": "Como Aprender a Programar ONLINE y GRATIS POR TU CUENTA desde CERO",
+      "metadescription": "En este video les comento los pasos que estoy tomando por mi cuenta para aprender programación. Las dificultades que se presentan, unos tips que tal vez les sitrvan, y analizamos tambien otras formas de estudiar programación que son muy validas también. Analizamos Libros, Free code camp, cursos y bootcamps!",
       "categoria": {
         "nombre": "DeivChoi",
         "color": "#FFBA05"
       },
-      "img": "eeoa0f4IVhs",
-      "embedId": "eeoa0f4IVhs"
+      "img": "m3gEAUsYiJk",
+      "embedId": "m3gEAUsYiJk"
     },
     {
       "id": "10",
-      "title": "Curso de DeivChoi 5",
-      "metadescription": "Theme Builder de Elementor\n \n En esta clase vamos a crear nuestra primera página con Elementor. \n \n Aprenderás como maquetar y obtener un diseño responsive con los Bloques de elementor",
+      "title": "Cómo Crear una Página Web COMPLETA con HTML y CSS desde cero | No Frameworks Full Responsive",
+      "metadescription": "Armamos una página web completa desde cero usando solo HTML y CSS. Es una página moderna y completa que puede ser adaptada a la temática que más les guste. El diseño y el maquetado es completamente adaptable a dispositivos móviles (mobile-friendly). Condición obligatoria para desarrollar páginas web estos días.",
       "categoria": {
         "nombre": "DeivChoi",
         "color": "#FFBA05"
       },
-      "img": "BxKuJ4pLRSI",
-      "embedId": "BxKuJ4pLRSI"
+      "img": "8-RC-Q7Wtzc",
+      "embedId": "8-RC-Q7Wtzc"
     },
     {
       "id": "11",
-      "title": "Curso de JonMircha 01",
-      "metadescription": "Con este curso aprenderás a preparar tu equipo con las herramientas necesarias para empezar a programar o comenzar a aprender.\n \n  Vamos a hacer las configuraciones necesarias para que puedas crear un proyecto sin mayores obstáculos. \n \nTambién aprenderás a moverte en la terminal. este es un curso para principiantes 🐣",
+      "title": "Curso JavaScript: 1. Introducción",
+      "metadescription": "En este video comienzo un nuevo curso de #JavaScript, donde te doy una introducción a la historia y características del lenguaje.",
       "categoria": {
         "nombre": "JonMircha",
         "color": "#00C86F"
       },
-      "img": "JKThdA1UbTw",
-      "embedId": "JKThdA1UbTw"
+      "img": "2SetvwBV-SU",
+      "embedId": "2SetvwBV-SU"
     },
     {
       "id": "12",
-      "title": "Curso de JonMircha 02",
-      "metadescription": "Ya que instalamos la terminal, vamos a sumergirnos de lleno en la Command Line o  Línea de comandos. \n\nAprenderemos como mover archivos, crearlos y editarlos",
+      "title": "Curso HTML & CSS ( 1 / 5 ): Fundamentos HTML",
+      "metadescription": "En este curso te enseño los fundamentos de HTML, el lenguaje de marcado que define el contenido en la web.",
       "categoria": {
         "nombre": "JonMircha",
         "color": "#00C86F"
       },
-      "img": "aFvk5UepU0o",
-      "embedId": "aFvk5UepU0o"
+      "img": "oK6zL01fNM",
+      "embedId": "oK6zL01fNM"
     },
     {
       "id": "13",
-      "title": "Curso de JonMircha 03",
-      "metadescription": "En esta clase vamos a aprender a instalar Plugins y Temas para nuestra terminal.\n\n Así que la dejaremos super bonita pero también aumentaremos nuestra productividad.",
+      "title": "Curso React: 1. Introducción",
+      "metadescription": "En este video comienzo un nuevo curso de #Reactjs, donde te doy una introducción a la historia y características de la librería.",
       "categoria": {
         "nombre": "JonMircha",
         "color": "#00C86F"
       },
-      "img": "jA2PIgWX3BI",
-      "embedId": "jA2PIgWX3BI"
+      "img": "MPLN1ahXgcs",
+      "embedId": "MPLN1ahXgcs"
     },
     {
       "id": "14",
-      "title": "Instalar Ubuntu en Windows 10 con JonMircha",
-      "metadescription": "¿Necesitas tener un entorno #linux en #Windows sin una máquina virtual o dual boot? #JonMircha viene al rescate.\n\nEn este vídeo veremos cómo instalar Ubuntu con JonMircha en Windows 10, además, veremos algunos comandos útiles que seguro te ayudan en caso de tener problemas durante la instalación de JonMircha en tu máquina",
+      "title": "Curso JavaScript: 2. Características y Gramática",
+      "metadescription": "En este video te cuento algunas de las características más importantes de  #JavaScript, y algunas reglas gramaticales que debemos seguir al escribir código.",
       "categoria": {
         "nombre": "JonMircha",
         "color": "#00C86F"
       },
-      "img": "L4f1XHrSJEg",
-      "embedId": "L4f1XHrSJEg"
+      "img": "C5FXZ2ki13k",
+      "embedId": "C5FXZ2ki13k"
     },
     {
       "id": "15",
-      "title": "JonMircha2 - Windows corriendo contenedores Linux??",
-      "metadescription": "Hoy hablamos de JonMircha2, o Windows Subsystem Linux, un sistema de virtualización optimizado para Linux, que virtualiza un Kernel de Linux modificado por Microsoft para poder correr contenedores Linux con Docker.",
+      "title": "Curso JavaScript: 3. Variables: var 🥊VS🥊 let",
+      "metadescription": "En este video te explico las diferencias entre declarar una variable global (var) o de bloque (let) en #JavaScript.",
       "categoria": {
         "nombre": "JonMircha",
         "color": "#00C86F"
       },
-      "img": "_Hne4gm8plo",
-      "embedId": "_Hne4gm8plo"
-    },
-    {
-      "id": "122125",
-      "title": "BEST Web Dev Setup? Windows & Linux at the same time (JonMircha)",
-      "metadescription": "Setup the ultimate Web Development environment with Windows and Linux 🐧 using JonMircha. Make the command line look cool, then add node, git, docker, and more. ",
-      "categoria": {
-        "nombre": "JonMircha",
-        "color": "#00C86F"
-      },
-      "img": "-atblwgc63E",
-      "embedId": "-atblwgc63E"
+      "img": "tmRa0_EvMoc",
+      "embedId": "tmRa0_EvMoc"
     },
     {
       "id": "16",
-      "title": "¿Qué es JavaScript?",
-      "metadescription": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? \n\n Genesys y Gabriela nos hablan exactamente de esto en este La Cocina del Código Tips.",
+      "title": "Curso HTML & CSS ( 2 / 5 ): Fundamentos CSS",
+      "metadescription": "En este curso te enseño los fundamentos de CSS, el lenguaje que define la presentación del contenido en la web.",
       "categoria": {
-        "nombre": "La Cocina del Código",
-        "color": "#7b00e0"
+        "nombre": "JonMircha",
+        "color": "#00C86F"
       },
-      "img": "GJfOSoaXk4s",
-      "embedId": "GJfOSoaXk4s"
+      "img": "K3xmRF8ab1o",
+      "embedId": "K3xmRF8ab1o"
     },
     {
       "id": "17",
-      "title": "Equipo Front End #La Cocina del CódigoMás",
-      "metadescription": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? \n\nGenesys y Gabriela nos hablan exactamente de esto en este La Cocina del Código Tips.",
+      "title": "Storybook: Instalación y Primeros Pasos con React",
+      "metadescription": "Ya sea que estemos empezando un nuevo proyecto o uno ya existente, instalar Storybook es muy sencillo.",
       "categoria": {
         "nombre": "La Cocina del Código",
         "color": "#7b00e0"
       },
-      "img": "rpvrLaBQwgg",
-      "embedId": "1gUCu2e_JiM"
+      "img": "WgsaTWmzvFE",
+      "embedId": "WgsaTWmzvFE"
     },
     {
       "id": "18",
-      "title": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
-      "metadescription": "El término profesional en T es muy utilizado en los días de hoy, pero ¿sabes que quiere decir y cómo ser un profesional en T? \n\nEn este video Christian Velasco, Head de La Cocina del Código Latam, no ayudará a enteder sobre ese término y nos explicará como podemos convertirnos en un profesional en T, enseñándonos una herramienta muy válida para quienes quiere aprender más al respecto.",
+      "title": "Storybook: Agregar Dos Historias para un Botón",
+      "metadescription": "Vamos a ver que es muy fácil agregar historias para nuestros propios componentes.",
       "categoria": {
         "nombre": "La Cocina del Código",
         "color": "#7b00e0"
       },
-      "img": "0udk1vXmwkc",
-      "embedId": "0udk1vXmwkc"
+      "img": "ZyAC_bYtBug",
+      "embedId": "ZyAC_bYtBug"
     },
     {
       "id": "19",
-      "title": "Videos La Cocina del Código",
-      "metadescription": "MiduDev team",
+      "title": "Storybook: Mejor Organización de Archivos",
+      "metadescription": "A medida que vamos agregando más y más componente a nuestro proyecto de Storybook puede que nuestro archivo de historias se haga cada vez más largo. En este video vamos a ver una mejor manera de organizar los archivos dentro de Storybook poniendo las historias de cada componente dentro de la misma carpeta.",
       "categoria": {
         "nombre": "La Cocina del Código",
         "color": "#7b00e0"
       },
-      "img": "UuAX5azcvDQ",
-      "embedId": "UuAX5azcvDQ"
+      "img": "W-0TpGA50z0",
+      "embedId": "W-0TpGA50z0"
     },
     {
       "id": "20",
-      "title": "Videos La Cocina del Código",
-      "metadescription": "MiduDev team",
+      "title": "Storybook: Cómo Agrupar Historias de Componentes Relacionados",
+      "metadescription": "En este video vamos a aprender cómo agrupar componentes de React en la barra lateral de Storybook bajo un título para encontrarlos más fácilmente.",
       "categoria": {
         "nombre": "La Cocina del Código",
         "color": "#7b00e0"
       },
-      "img": "PlaQ913yggM",
-      "embedId": "PlaQ913yggM"
+      "img": "s6uryR0a_Tw",
+      "embedId": "s6uryR0a_Tw"
     },
     {
       "id": "21",
-      "title": "Videos La Cocina del Código",
-      "metadescription": "Habllando del crud",
+      "title": "Storybook RECARGADO: ¿Todavía no estás usando ADDONS?",
+      "metadescription": "Los ADDONS de Storybook permiten una funcionalidades avanzadas y desbloquean nuevos flujos de trabajo. Con contribuciones de los principales mantenedores y la increíble comunidad de desarrolladores, aprendé a USAR ADDONS para aumentar el potencial que tiene esta herramienta.",
       "categoria": {
         "nombre": "La Cocina del Código",
         "color": "#7b00e0"
       },
-      "img": "jr_98HCSTZc",
-      "embedId": "jr_98HCSTZc"
+      "img": "pF4XINqQQTI",
+      "embedId": "pF4XINqQQTI"
     },
     {
-      "title": "Cupid",
-      "embedId": "FyKPsua6Br8",
-      "img": "FyKPsua6Br8",
+      "id": "22",
+      "title": "JavaScript Game Tutorial: The Trolley Problem",
+      "metadescription": "Join me on another coding adventure as I turn my train simulation into a fun and ethical dilemma game about the trolley problem! 🚂🐱 In this video, I demonstrate how to create a game where you must divert a train to save a cat, using JavaScript and HTML Canvas. Perfect for beginners and experienced coders alike, this tutorial walks you through:",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "metadescription": "10 hrs de cupid para programar mientras Jhon Ceena baila",
-      "id": "122127"
+      "img": "pTJ_Ue5F_8s",
+      "embedId": "pTJ_Ue5F_8s"
     },
     {
-      "title": "Las 6 maneras de aplicar estilos Carlos Azaustre en Radu Mariescu-Istodor",
-      "embedId": "J-hGXVPyT-Y",
-      "img": "J-hGXVPyT-Y",
+      "id": "23",
+      "title": "JavaScript Beginner Project Tutorial: The Ebbinghaus Illusion",
+      "metadescription": "Hey coders! Today, I've got an exciting tutorial for you where we dive into the mesmerizing world of visual illusions. In this video, I'll guide you step by step through coding the Ebbinghaus illusion using JavaScript and HTML Canvas. Plus, we'll take it a step further and add some animation to bring this optical illusion to life!",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "metadescription": "- Requisitos: Ninguno/n/n\n- Dificultad: Fácil/n/n\n- Recomendación: El peor/n/n\n- Ojo con: Estilos en línea son una mala idea 100pre :v.",
-      "id": "39121aa7-a7ff-4435-87fe-4176d068ac86"
+      "img": "dtT_T_x0b3c",
+      "embedId": "dtT_T_x0b3c"
     },
     {
-      "title": "useContext en 20 minutos",
-      "embedId": "Ae33_gdJgnQ",
-      "img": "Ae33_gdJgnQ",
+      "id": "24",
+      "title": "How to Fake data in Apps",
+      "metadescription": "y, everyone! In this tutorial, I'll show you a simple trick using browser developer tools to generate fake data in Gmail. It's a handy technique to capture screenshots without exposing any personal information. Whether you want to share your screen for tutorials, presentations, or just to keep your sensitive details private, this method works like a charm!",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "metadescription": "Aprende a usar el useContext Hook y cómo gestiona de manera efectiva el estado global de tus aplicaciones en Radu Mariescu-Istodorjs.",
-      "id": "ab2ae329-32b6-4f53-81d5-c1b9637dbe6b"
+      "img": "eF1fpm4AbH4",
+      "embedId": "eF1fpm4AbH4"
     },
     {
-      "title": "Cree un sitio web de DeivChoi usando Radu Mariescu-Istodor 🔥 | DeivChoi RESTFUL API con Radu Mariescu-Istodor con Frontity",
-      "embedId": "jqHGD31lgGs",
-      "img": "jqHGD31lgGs",
+      "id": "25",
+      "title": "Aprende React en 45 Minutos",
+      "metadescription": "Convertite en React developer en 45 minutos.",
       "categoria": {
         "nombre": "DeivChoi",
         "color": "#FFBA05"
       },
-      "metadescription": "DeivChoi es ese gran CMS que a todos les encanta y tiene toneladas de sitios web en ejecución y miles de complementos que le permiten hacer prácticamente cualquier cosa. \n\nEl único inconveniente que encuentran muchos desarrolladores es que usa plantillas PHP para representar y obtener los datos para su sitio web. \n\nFrontity llega y abre las barreras para permitirle usar DeivChoi con Radu Mariescu-Istodor donde puede consumir y obtener datos de DeivChoi a través de la API RESTFUL y renderizarlos en la aplicación Radu Mariescu-Istodor que se ejecuta en un servidor Node.js con todo lo que ama del lado de Radu Mariescu-Istodor.",
-      "id": "a4be9792-852b-4099-8ecf-4eb5361d51f9"
+      "img": "PWF5SgnNdp4",
+      "embedId": "PWF5SgnNdp4"
     },
     {
-      "title": "Cupid",
-      "embedId": "FyKPsua6Br8",
-      "img": "FyKPsua6Br8",
-      "metadescription": "Yo y los Uwauuu Uwauuu",
+      "id": "26",
+      "title": "CLASES VS FÁBRICAS EN JAVASCRIPT",
+      "metadescription": "Una clase en JavaScript es una plantilla para crear objetos que define los datos que tendrán esos objetos y los métodos que pueden ejecutar. Una fábrica es una simple función cuyo objetivo es retornar un nuevo objeto.",
       "categoria": {
         "nombre": "La Cocina del Código",
         "color": "#7b00e0"
       },
-      "id": "eee6556c-c527-4d1c-9755-e91d718c49ba"
+      "img": "Do81bfct_bk",
+      "embedId": "Do81bfct_bk"
     },
     {
-      "metadescription": "En este proyecto aprenderás a crear una aplicación web MiduDev usando Rect, que te permitirá registrar tus gastos e ingresos, y podrás usarlo para poder obtener una especie de resumen de cuanto es lo que obtienes de balance, ademas de un grafico con mas información. \\n\\nAqui Vitejs para crear el proyecto, usaremos la API Context de Radu Mariescu-Istodor, LocalStorage y también algunos modulos utiles para poder practicar mas con esta biblioteca para crear interfaces web de usuario.",
-      "title": "Radu Mariescu-Istodor Aplicación para administrar gastos e ingresos",
-      "embedId": "zN6xXtHww54",
-      "img": "zN6xXtHww54",
+      "id": "27",
+      "title": "🕯️Magic Candle🕯️JavaScript Project [With Device Orientation sensor]",
+      "metadescription": "I'll be coding a simple candle simulation where the flame always points up (even if you rotate the device).",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "id": "55fb53e0-3444-476d-827f-60a6280650f1"
+      "img": "avxStAp0mco",
+      "embedId": "avxStAp0mco"
     },
     {
-      "metadescription": "Radu Mariescu-Istodor.js es una librería para crear interfaces web, con ella están construidas las dos redes sociales más grandes: Facebook e Instagram. En este video aprenderás las bases de esta librería.",
-      "title": "¿Qué es Radu Mariescu-Istodor.js y cómo funciona? - La mejor explicación en español",
-      "embedId": "lWQ69WX7-hA",
-      "img": "lWQ69WX7-hA",
+      "id": "28",
+      "title": "18 JavaScript Projects for Students",
+      "metadescription": "In this video I present 18 JavaScript projects suitable for Students. These projects were implemented by my students during the Visual Web Development course of 2021. They are all JavaScript projects, predominantly vanilla JavaScript and HTML Canvas. Some libraries are used in some cases like ThreeJS and Handtrack JS. ",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "id": "98751bdc-d3e6-454e-b511-b22d14aa989f"
+      "img": "KL_Ng_IBGHo",
+      "embedId": "KL_Ng_IBGHo"
     },
     {
-      "metadescription": "Holi",
-      "title": "¿Qué es Radu Mariescu-Istodor.js y cómo funciona? - La mejor explicación en español",
-      "embedId": "FyKPsua6Br8",
-      "img": "FyKPsua6Br8",
+      "id": "29",
+      "title": "76 JavaScript projects in 24 hours: Coding Ultramarathon (Part 1)",
+      "metadescription": "First 10 hours and 11 minutes of the 24 h coding ultramarathon challenge where I built 76 HTML canvas projects using vanilla JavaScript and no external libraries",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "id": "30e6f1bb-150b-497d-9546-509551336466"
+      "img": "UcQvwHHvxpQ",
+      "embedId": "UcQvwHHvxpQ"
     },
     {
-      "metadescription": "Xd❤️❤️❤️❤️❤️",
-      "title": "¿Qué es Radu Mariescu-Istodor.js y cómo funciona? - La mejor explicación en español",
-      "embedId": "FyKPsua6Br8",
-      "img": "FyKPsua6Br8",
+      "id": "30",
+      "title": "Learn Trigonometry with JavaScript",
+      "metadescription": "We study trigonometry by implementing an interactive tool in JavaScript. We learn several trigonometrical functions like the sine, cosine and tangent (sin, cos, tan) and their inverse functions: the arcsine, arccosine and arctangent (asin, acos, atan). We define these functions using a right angle triangle at first and then extend the definitions using the unit circle.",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "id": "7dc12fed-fdc2-41f5-889e-753821f4f44e"
+      "img": "xK3vKWMFVgw",
+      "embedId": "xK3vKWMFVgw"
     },
     {
-      "metadescription": "sadsadASA",
-      "title": "¿Qué es Radu Mariescu-Istodor.js y cómo funciona? - La mejor explicación en español",
-      "embedId": "J-hGXVPyT-Y",
-      "img": "J-hGXVPyT-Y",
+      "id": "31",
+      "title": "Learn 2D Vectors with JavaScript",
+      "metadescription": "We study 2D vectors by implementing an interactive tool in JavaScript. We learn about the cartesian representation and the polar representation. And vector operations like addition, subtraction, scaling, normalization and how to calculate the dot product. We use what we learn about vectors to draw vectors (an arrow) and visualize the different operations in an interactive way.",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "id": "6b6ed56d-2864-4d7c-aebb-db92024bb799"
+      "img": "nzyOCd9FcCA",
+      "embedId": "nzyOCd9FcCA"
     },
     {
-      "metadescription": "Practica Radu Mariescu-Istodor con estos 5 proyectos completos donde vamos a construir aplicaciones o componentes usando hooks. \n\nEstos proyectos están hechos para que mejores tus habilidades con Javascript y repases conceptos importantes de Radu Mariescu-Istodor. #proyectos #Radu Mariescu-Istodorjs #javascript #cursosgratis",
-      "title": "🔥 5 proyectos COMPLETOS en Radu Mariescu-Istodor JS",
-      "embedId": "0w6LrUalDHo",
-      "img": "0w6LrUalDHo",
+      "id": "32",
+      "title": "Pythagorean Theorem: Proof, Applications and JavaScript Code",
+      "metadescription": "The Pythagorean theorem is one of the most useful things in the world! It helps me to make Games, Location-based Systems, Augmented reality Apps, Machine learning projects  but also to build things in the real world like this swing!",
       "categoria": {
         "nombre": "Radu Mariescu-Istodor",
         "color": "#00ffd5"
       },
-      "id": "a4ba537f-189f-429c-8b48-89dcde4165d1"
+      "img": "iqSlzYXdFzw",
+      "embedId": "iqSlzYXdFzw"
     },
     {
-      "metadescription": " Cafe punto Tech: ¿Por que las empresas buscan especialistas en Javascript?\n",
-      "title": " Cafe punto Tech: ¿Por que las empresas buscan especialistas en Javascript?",
-      "embedId": "1Nk2FfJFig2Y",
-      "img": "1Nk2FfJFig2Y",
+      "id": "33",
+      "title": "THIS EN JAVASCRIPT (bind, call, apply y más)",
+      "metadescription": "En este video vas a entender al detalle cómo funciona uno de los mecanismos más complicados que tiene JavaScript de una manera muy simple.",
       "categoria": {
         "nombre": "La Cocina del Código",
         "color": "#7b00e0"
       },
-      "id": "8c0c2d45-7363-46e6-870f-4d6cfe73e3e0"
+      "img": "bS71_W_BDFE",
+      "embedId": "bS71_W_BDFE"
     },
     {
-      "metadescription": "Acaban de salir los resultados de la encuesta de State of Carlos Azaustre y estan son 5 nuevas funcionalidades que están disponibles para usar en tu sitio o aplicación web.\n",
-      "title": "5 NUEVAS PROPIEDADES Carlos Azaustre QUE LO CAMBIARÁN TODO",
-      "embedId": "CgHJR8wqnIU",
-      "img": "CgHJR8wqnIU",
+      "id": "34",
+      "title": "ESTE ES EL JAVASCRIPT QUE NECESITAS PARA APRENDER REACT",
+      "metadescription": "Aprender React puede ser complicado, sobre todo si no tienes una base sólida de JavaScript. Pero no tienes porque saber todo lo que existe sobre JavaScript para empezar con React. En éste vídeo te resumo los puntos o características más utilizadas para que comenzar con React no sea dificil.",
       "categoria": {
         "nombre": "Carlos Azaustre",
         "color": "#ff0000"
       },
-      "id": "e0dc5a20-f8fd-4c62-9dc2-df6c9b220e1c"
+      "img": "sKsNO-quEAw",
+      "embedId": "sKsNO-quEAw"
     },
     {
-      "metadescription": "Vamos a construir 20 proyectos completos con Carlos Azaustre, para que puedas practicar más del lenguaje y aprendas algunos trucos sobre animaciones, 3D, layouts, selectores avanzados y más. #Carlos Azaustre #tutoriales #desarrolloweb\n",
-      "title": "🔥 20 PROYECTOS COMPLETOS CON Carlos Azaustre",
-      "embedId": "XZTt1NFDnDw",
-      "img": "XZTt1NFDnDw",
+      "id": "35",
+      "title": "LO NUEVO que trae JAVASCRIPT en 2022 - Nuevas Features en ES2022",
+      "metadescription": "Todas las features que incorpora la nueva versión del estándar de JavaScript",
       "categoria": {
         "nombre": "Carlos Azaustre",
         "color": "#ff0000"
       },
-      "id": "558ce7fa-87f3-4988-a6e3-3a7ce5125694"
+      "img": "7No_e3loqn4",
+      "embedId": "7No_e3loqn4"
     },
     {
-      "metadescription": "Cree 3 ejemplos de cuadrículas Carlos Azaustre receptivas para dominar los conceptos básicos de este poderoso sistema de diseño. https://github.com/fireship-io/224-an...\n",
-      "title": "The Joy of Carlos Azaustre Grid - Cree 3 diseños receptivos bellamente simples",
-      "embedId": "705XCEruZFs",
-      "img": "705XCEruZFs",
+      "id": "36",
+      "title": "📚 LOS 3 MEJORES LIBROS de PROGRAMACIÓN en JAVASCRIPT en español",
+      "metadescription": "Aprender programación y en particular JavaScript a través de libros técnicos, es muy buena idea. Sin embargo hay una gran cantidad de títulos y con el paso del tiempo se pueden desactualizar, además que es complicado encontrarlos en español e incluso de autores hispanos.",
       "categoria": {
         "nombre": "Carlos Azaustre",
         "color": "#ff0000"
       },
-      "id": "4aa9b670-e5a9-4dc4-920e-99e9eefb529a"
+      "img": "CpelevzT8xg",
+      "embedId": "CpelevzT8xg"
     },
     {
-      "metadescription": "En este tutorial, vas a aprender a dibujar formas con Carlos Azaustre con un ejercicio muy fácil de aprender y replicar. Este tutorial es parte de un curso completo de HTML5 y Carlos Azaustre3 en Platzi. \n",
-      "title": "Dibujando con Carlos Azaustre",
-      "embedId": "IP3OmWpUuIg",
-      "img": "IP3OmWpUuIg",
+      "id": "37",
+      "title": "Resuelvo PRUEBA TÉCNICA para PROGRAMADOR JUNIOR",
+      "metadescription": "Quítate el miedo a la hora de enfrentarte a los problemas que te plantean en una entrevista técnica para un puesto de desarrollo o programación Frontend.",
       "categoria": {
         "nombre": "Carlos Azaustre",
         "color": "#ff0000"
       },
-      "id": "c8667563-683b-41f0-b30b-8bc5e3d74df0"
+      "img": "I27ZJU2_-Og",
+      "embedId": "I27ZJU2_-Og"
+    },
+    {
+      "id": "38",
+      "title": "Gradientes en CSS: La Guía Completa | Tendencias Web",
+      "metadescription": "Los gradientes les permiten a diseñadores crear colores únicos, modernos y vivos que tienen un efecto muy fuerte en las personas. En este video vamos a aprender a usar gradientes en CSS para crear botones, links, textos resaltados y cajas de alerta.",
+      "categoria": {
+        "nombre": "La Cocina del Código",
+        "color": "#7b00e0"
+      },
+      "img": "m30frh3KzLU",
+      "embedId": "m30frh3KzLU"
     }
   ]
 }
